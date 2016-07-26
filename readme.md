@@ -196,3 +196,7 @@ It could be! It's more likely for very widespread libraries that your user's bro
 * <a href="http://guides.rubyonrails.org/asset_pipeline.html">Rails Guides: Asset Pipeline</a>
 * <a href="https://github.com/rails/sprockets#sprockets-directives">Sprockets Directives</a>
 * List of [view helpers for asset tags](http://api.rubyonrails.org/classes/ActionView/Helpers/AssetTagHelper.html).
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
